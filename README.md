@@ -1,7 +1,8 @@
 # TF_micro_nRF52840
 tensorflow weight model code trained for nRF52840
 
-File structure  \
+File structure  
+
 main  \
 ./dataset: download from https://storage.googleapis.com/download.tensorflow.org/data/speech_commands_v0.02.tar.gz  
 
